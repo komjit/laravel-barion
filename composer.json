@@ -1,0 +1,18 @@
+{
+    "name": "komjit/barion",
+    "description": "Barion Payment Gateway",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "KomjIT Kft.",
+            "email": "webmester@komjit.eu"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "KomjIT\\Barion\\": "src/"
+        }
+    }
+}
